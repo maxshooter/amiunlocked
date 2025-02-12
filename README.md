@@ -10,7 +10,7 @@ View the CLI program's [README.md](./program/README.md) for more information. Yo
 
 View the website's [README.md](./website/README.md) for more information. You can also deploy the website directly to Netlify.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/raygesualdo/amiunlocked)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/maxshooter/amiunlocked)
 
 ## License
 
