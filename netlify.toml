@@ -7,5 +7,5 @@
 
 [template]
 [template.environment]
-  TITLE = "Set your site title here. I am required."
-  KVDB_URL = "Set the URL to your kvdb bucket with the key suffix. I am required."
+  TITLE = "Status"
+  KVDB_URL = "https://www.ya.ru/"
