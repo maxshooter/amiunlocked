@@ -1,7 +1,7 @@
 [build]
   base = "website/"
   publish = "website/dist/"
-  command = "npm run build --verbose"
+  command = "npm run build --verbose; cat /opt/buildhome/.npm/_logs/*.log"
 [build.processing]
   skip_processing = true
 
